@@ -176,7 +176,7 @@
 		"outerColor": [193, 39, 45],
 		"innerColor": [0, 98, 51],
 		"uniqueName": "Gateway to Africa",
-		"uniques": ["[+1 Culture, +3 Gold] from each Trade Route"],
+		"uniques": ["[+2 Culture, +2 Gold] from each Trade Route"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
 			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
