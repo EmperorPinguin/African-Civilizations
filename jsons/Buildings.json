@@ -1,0 +1,94 @@
+[
+
+{
+		"name": "De Beers",
+		"replaces": "Windmill",
+		"uniqueTo": "Botswana",
+		"requiredNearbyImprovedResources": ["Gems"],
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"uniques": ["Available with Gems","[+2 Production, +2 Gold] from [Gems] tiles [in this city]","[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
+{
+		"name": "Staatsmuseum",
+		"replaces": "Opera House",
+		"uniqueTo": "The Boers",
+		"culture": 6,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+{
+		"name": "Uranium Mine",
+		"replaces": "Recycling Center",
+		"uniqueTo": "Chad",
+		"maintenance": 3,
+		"requiredTech": "Ecology",
+		"uniques": ["Provides [2] [Aluminum]","Provides [2] [Uranium]","Limited to [5] per Civilization"]
+	},
+{
+		"name": "Mbanza",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Kongo",
+            "food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+{
+		"name": "Suguba",
+		"replaces": "Market",
+		"uniqueTo": "Mali",
+		"gold": 2,
+		"cost": 100,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 0,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Food, +1 Faith] <with [1] to [2] neighboring [Desert] tiles>",
+				"[+2 Food, +2 Faith] <with [3] to [4] neighboring [Desert] tiles>",
+				"[+3 Food, +3 Faith] <with [5] to [6] neighboring [Desert] tiles>"]
+		"requiredTech": "Currency"
+	},
+{
+		"name": "Great Zimbabwe",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Zimbabwe",
+		"cost": 125,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Walls] in all cities", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
+	},
+{
+		"name": "Ikanda",
+		"replaces": "Barracks",
+		"uniqueTo": "The Zulu",
+		"hurryCostModifier": 25,
+		"happiness": 1,
+		"maintenance": 0,
+		"cost": 75,
+		"uniques": ["[+1] Unit Supply","New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+{
+		"name": "Shamba",
+		"replaces": "Garden",
+		"uniqueTo": "Kenya",
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]", "[+1 Food] from [Plantation] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Civil Service"
+	},
+
+
+]
