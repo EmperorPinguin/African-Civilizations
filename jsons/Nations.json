@@ -89,7 +89,7 @@
 		"innerColor": [0, 0, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Trias Politica",
-		"uniques": ["[-50]% Food consumption by specialists [in all cities]"],
+		"uniques": ["[+2 Gold] from every specialist [in all cities]", "[+2 Gold] from every [Great Improvement]"],
 		"cities": ["Gaborone"]
 	},
 {
